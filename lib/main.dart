@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import '0_provider_overview/counter.dart';
-import '1_todo_app/views/home_page.dart';
+import 'routes.dart';
 
 void main() => runApp(const MyApp());
 
@@ -15,7 +14,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyCounterApp(),
+      //home: const MyCounterApp(),
+      home: const MyDogApp(),
       //home: const HomePage(),
     );
   }

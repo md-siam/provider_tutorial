@@ -9,19 +9,19 @@ class MyCounterApp extends StatelessWidget {
       title: 'Counter',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: Colors.blue),
-      home: const MyHomePage(),
+      home: const CounterHomePage(),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key}) : super(key: key);
+class CounterHomePage extends StatefulWidget {
+  const CounterHomePage({Key? key}) : super(key: key);
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<CounterHomePage> createState() => _CounterHomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _CounterHomePageState extends State<CounterHomePage> {
   int counter = 0;
 
   void increment() {

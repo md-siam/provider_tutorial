@@ -13,10 +13,45 @@
 
 Note: It uses Equatable package. Dart data class generator extension.
 
-## Widget tree for the CounterApp
+## Widget tree for the CounterApp (Overview 01)
 
-<img align="center" src="widget_tree.png" height="400"></img>
+<img align="center" src="img/widget_tree_01.png" height="400"></img>
 
 ## StateManagement
+
 1. Dependency Injection
 2. Synchronizing data and UI
+
+## Widget tree for the Overview 02 App
+
+<img align="center" src="img/widget_tree_02.png" height="400"></img>
+
+# Provider constructor
+
+<img align="center" src="img/provider_constructor.png" height="300"></img>
+
+Giving instance
+
+```
+Provider.of<T>(context) => T Tyle instance
+```
+
+# ChangeNotifier
+
+<img align="center" src="img/changenotifier.png" height="300"></img>
+
+# Caution
+
+<img align="center" src="img/caution.png" height="300"></img>
+
+# ChangeNotifierProvider
+
+<img align="center" src="img/changenotifierprovider.png" height="300"></img>
+
+# Provider Extension Methods
+
+<img align="center" src="img/provider_extension_methods.png" height="300"></img>
+
+# Multiple Providers
+
+<img align="center" src="img/multiple_providers.png" height="300"></img>
