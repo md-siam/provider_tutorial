@@ -27,7 +27,7 @@ Provider
   <tr>
     <td>1</td>
     <td><a href="/lib/0_provider_overview/provider_overview_01/counter.dart">Counter App</a></td>
-    <td><a href="/lib/0_provider_overview/README.md">README.md</a></td>
+    <td><a href="/lib/0_provider_overview">README.md</a></td>
     <td><img align="right" src="screenshots/counterApp.png" width="250"></img></td>
   </tr>
 
