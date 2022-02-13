@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'routes.dart';
 
 void main() => runApp(const MyApp());
@@ -15,7 +16,9 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       //home: const MyCounterApp(),
-      home: const MyDogApp(),
+      //home: const MyDogApp(),
+      //home: const MyConsumer()
+      home: const MyDogApp(), //selector
       //home: const HomePage(),
     );
   }

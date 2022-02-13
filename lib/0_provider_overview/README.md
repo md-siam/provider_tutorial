@@ -63,3 +63,15 @@ Provider.of<T>(context) => T Tyle instance
 # Stream Builder
 
 <img align="center" src="img/stream_builder.png" height="300"></img>
+
+# So far...
+
+<img align="center" src="img/So far.png" height="300"></img>
+
+# Consumer
+
+<img align="center" src="img/consumer.png" height="300"></img>
+
+# Selector
+
+<img align="center" src="img/selector.png" height="300"></img>
