@@ -55,3 +55,11 @@ Provider.of<T>(context) => T Tyle instance
 # Multiple Providers
 
 <img align="center" src="img/multiple_providers.png" height="300"></img>
+
+# Future Provider
+
+<img align="center" src="img/future_provider.png" height="300"></img>
+
+# Stream Builder
+
+<img align="center" src="img/stream_builder.png" height="300"></img>
