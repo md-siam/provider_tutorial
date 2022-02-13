@@ -18,7 +18,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCounterApp(),
       //home: const MyDogApp(),
       //home: const MyConsumer()
-      home: const MyDogApp(), //selector
+      //home: const MyDogApp(), //selector
+      home: const MyCounterApp(), //for ProviderNotFound Exception
       //home: const HomePage(),
     );
   }

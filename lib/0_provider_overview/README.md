@@ -75,3 +75,21 @@ Provider.of<T>(context) => T Tyle instance
 # Selector
 
 <img align="center" src="img/selector.png" height="300"></img>
+
+# ProviderNotFoundException
+
+ProviderNotFoundException is a common error in provider package. Watch video 15 & check [provider_overview_11](provider_overview_11/counter.dart) for more info.
+
+<img align="center" src="img/ProviderNotFoundException.png" height="300"></img>
+
+<!-- # ProxyProvider
+
+<img align="center" src="img/update_callback_of_ProxyProvider.png" height="300"></img>
+
+# ProxyProvider2
+
+<img align="center" src="img/update_callback_of_ProxyProvider2.png" height="300"></img>
+
+# ProxyProviderN
+
+<img align="center" src="img/update_callback_of_ProxyProviderN.png" height="300"></img> -->
