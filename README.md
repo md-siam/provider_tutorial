@@ -4,11 +4,11 @@
 Provider
 
 ```
-> A recommended approach (in flutter .dev)
-    - It gives the impression of Google certified
-> Currently, it is the most used solution
-> It has been tested very much in the field
-    - Very stable solution
+  > A recommended approach (in flutter .dev)
+      - It gives the impression of Google certified
+  > Currently, it is the most used solution
+  > It has been tested very much in the field
+      - Very stable solution
 ```
 
 ## Slides:
@@ -32,3 +32,5 @@ Provider
   </tr>
 
 </table>
+
+## Directory
