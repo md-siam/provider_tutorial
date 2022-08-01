@@ -40,7 +40,7 @@ class ConsumerHomePage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    '${foo.value}',
+                    foo.value,
                     style: const TextStyle(fontSize: 40),
                   ),
                   const SizedBox(height: 20.0),

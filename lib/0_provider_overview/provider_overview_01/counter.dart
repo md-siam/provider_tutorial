@@ -134,7 +134,7 @@ class CounterB extends StatelessWidget {
       padding: const EdgeInsets.all(10.0),
       child: Text(
         '$counter',
-        style: TextStyle(fontSize: 24.0),
+        style: const TextStyle(fontSize: 24.0),
       ),
     );
   }

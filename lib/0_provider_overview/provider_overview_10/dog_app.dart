@@ -33,7 +33,7 @@ class _DogHomePageState extends State<DogHomePage> {
     return Scaffold(
       appBar: AppBar(title: const Text('Provider 10')),
       body: Selector<Dog, String>(
-        selector: (BuildContext contex, Dog dog) => dog.name,
+        selector: (BuildContext context, Dog dog) => dog.name,
         builder: (BuildContext context, String name, Widget? child) {
           return Center(
             child: Column(
